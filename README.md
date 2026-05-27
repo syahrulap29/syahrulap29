@@ -24,7 +24,6 @@ const syahrul = {
 ![Laravel](https://img.shields.io/badge/Laravel-EF4444?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js%203-22C55E?style=flat-square&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EAB308?style=flat-square&logo=javascript&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB7171?style=flat-square&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-EF4444?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white)
@@ -39,16 +38,11 @@ const syahrul = {
 | 💌 **Wedding Invitation System** | Digital invitation platform with QR check-in, bulk guest import & multi-tenant WhatsApp blast | Laravel 12, Multi-tenant |
 | 🧾 **Invoice System** | Invoicing module with reactive Vue.js 3 components, XSS-safe rendering & dynamic line items | Vue.js 3, Laravel |
 | 📊 **Balance Sheet Engine** | Automated financial report recalculation with query optimization & database indexing | Laravel, MySQL |
+| 📒 **Accounting System** | End-to-end accounting platform covering journal entries, ledgers, and financial reporting | Laravel, Vue.js, MySQL |
+| 📦 **Inventory Management** | Stock management system with real-time tracking, purchase orders & multi-warehouse support | Laravel, Vue.js |
+| 📱 **SOKRE — Service Shop POS** | Point-of-sale & data entry system tailored for mobile phone repair shops — handles job orders, spare parts, payments & customer records | Laravel, POS |
 
 > 💼 Most of my work lives in private repos (Bitbucket). These projects represent the kind of systems I build daily.
-
----
-
-### 📊 GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syahrulap29&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrulap29&layout=compact&theme=default&hide_border=true)
 
 ---
 
